@@ -83,11 +83,11 @@ author:
   name             : "Tariq Iqbal"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Systems Engineering, University of Virginia."
+  employer         : "University of Virginia"
   location         : "Charlottesville, VA, USA."
-  employer         :
   pubmed           : 
+  email            : "tiqbal at virginia dot edu"
   googlescholar    : "https://scholar.google.com/citations?user=t_ndTI4AAAAJ&hl=en"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tariq-iqbal"
+  linkedin         : "www.linkedin.com/in/tariq-iqbal"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
