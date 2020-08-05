@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "Collaborative Robotics Lab"
+    url: /crl/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "CV"
+    url: /cv/
