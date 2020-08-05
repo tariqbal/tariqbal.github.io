@@ -23,9 +23,12 @@ Prior experiences
 
 * Cognitive Robotics Intern (2016)
   * IBM Watson Lab, Austin, TX
-  * Description: 
-     * Devised a method for robots to detect human head gestures and to incorporate those understandings in human-robot conversational contexts.
-     * Developed methods for robots to understand human hand gestures to facilitate fluent human-robot interaction.
-     * Designed a neural network based multimodal data fusion model to help a robot to make appropriate decisions during a conversation.
-
+  * Description: Devised a method for robots to detect human head gestures and to incorporate those understandings in human-robot conversational contexts.
   
+* Senior System Engineer (2010-2011)
+  * Grameenphone Ltd., Dhaka, Bangladesh
+  * Description: Worked as a lead engineer responsible for maintaining the availability and the security of the servers containing performance, fault and configuration data of the telecommunication network of 25 million subscribers.
+
+* System Engineer (2007-2010)
+  * Grameenphone Ltd., Dhaka, Bangladesh
+  * Description: Worked as a system administrator to keep the network database servers operational.
