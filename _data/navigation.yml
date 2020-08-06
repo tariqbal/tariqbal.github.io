@@ -4,7 +4,7 @@ main:
     url: /crl/
 
   - title: "Publications"
-    url: /publications/
+    url: http://people.csail.mit.edu/tiqbal/publications.html
 
   - title: "Teaching"
     url: /teaching/    
