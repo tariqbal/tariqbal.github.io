@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-
 ## Education
 * Ph.D in Computer Science, University of California San Diego (UCSD), CA, USA (2017)
 * M.S. in Computer Science, University of Texas at El Paso (UTEP), TX, USA (2012)
