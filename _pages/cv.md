@@ -17,9 +17,8 @@ Education
 
 Academic Appointments
 ======
-* Assistant Professor (2019-)
-  * Systems Engineering
-  * University of Virginia
+* Assistant Professor (2019-Present)
+  * Systems Engineering, University of Virginia
 * Postdoctoral Associate (2017-2019)
   * Massachusetts Institute of Technology (MIT)
   * Supervisor: Prof. Julie Shah
@@ -27,10 +26,6 @@ Academic Appointments
 
 Professional Experiences
 ======
-* Postdoctoral Associate (2017-2019)
-  * Massachusetts Institute of Technology (MIT)
-  * Supervisor: Prof. Julie Shah
-
 * Cognitive Robotics Intern (2016)
   * IBM Watson Lab, Austin, TX
   * Description: Devised a method for robots to detect human head gestures and to incorporate those understandings in human-robot conversational contexts.
