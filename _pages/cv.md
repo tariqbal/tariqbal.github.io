@@ -15,7 +15,17 @@ Education
 * M.S. in Computer Science, University of Texas at El Paso (UTEP), TX, USA (2012)
 * B.S. in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET), Bangladesh (2007)
 
-Prior experiences
+Academic Appointments
+======
+* Assistant Professor (2019-)
+  * Systems Engineering
+  * University of Virginia
+* Postdoctoral Associate (2017-2019)
+  * Massachusetts Institute of Technology (MIT)
+  * Supervisor: Prof. Julie Shah
+
+
+Professional Experiences
 ======
 * Postdoctoral Associate (2017-2019)
   * Massachusetts Institute of Technology (MIT)
