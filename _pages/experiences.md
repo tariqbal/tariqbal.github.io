@@ -16,7 +16,7 @@ Education
 Academic Appointments
 ========
 * Assistant Professor (2019-Present)
-  * Systems Engineering, University of Virginia
+  * Systems Engineering, University of Virginia (UVA)
 * Postdoctoral Associate (2017-2019)
   * Massachusetts Institute of Technology (MIT)
   * Supervisor: Prof. Julie Shah
