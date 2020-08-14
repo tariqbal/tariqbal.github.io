@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 Education
 ========
-* Ph.D in Computer Science, University of California San Diego (UCSD), CA, USA (2017)
+* Ph.D. in Computer Science, University of California San Diego (UCSD), CA, USA (2017)
 * M.S. in Computer Science, University of Texas at El Paso (UTEP), TX, USA (2012)
 * B.S. in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET), Bangladesh (2007)
 
