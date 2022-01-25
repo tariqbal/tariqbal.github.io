@@ -7,5 +7,3 @@ venue: "University of Virginia"
 date: 2021-09-01
 location: 
 ---
-
-
