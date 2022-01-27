@@ -1,5 +1,5 @@
 ---
-title: "Fall 2020 - Stochastic Modeling I"
+title: "Fall 2020 -- Stochastic Modeling I"
 collection: teaching
 type: "SYS 6005"
 permalink: 
