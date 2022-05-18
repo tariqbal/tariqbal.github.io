@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Collaborative Robotics Lab"
+    url: https://collabrobotics.com
+
   - title: "Publications"
     url: https://scholar.google.com/citations?user=t_ndTI4AAAAJ&hl=en
 
